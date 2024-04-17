@@ -50,9 +50,9 @@ Documente su propuesta en el archivo de [mejoras.md](docs/d.mejoras). Su propues
 |------------------------------------------------------|----------|
 | Código comentado en `pixmatch_refactor.py`           | 10       |
 | Diagrama de flujo en `proceso_juego` en carpeta docs | 10       |
-| Archivo [requisitos.md](docs/a.requisitos) con lista de funcionalidades documentadas | 15       |
-| Tabla en [`Requisitos2Code.md`](docs/b.requisitos_2_code) ajustada con relación código-requisitos | 15       |
-| Modificaciones funcionales comprobadas en el código, descritas en [modificar_funciones.md](docs/c.modificacion_funciones) | 20       |
+| Archivo [requisitos.md](docs/a.requisitos) con lista de funcionalidades documentadas | 10       |
+| Tabla en [`Requisitos2Code.md`](docs/b.requisitos_2_code) ajustada con relación código-requisitos | 10       |
+| Modificaciones funcionales comprobadas en el código, descritas en [modificar_funciones.md](docs/c.modificacion_funciones) | 25       |
 | Lista de chequeo completada en [lista_chequeo.md](docs/d.lista_chequeo) | 15       |
 | Documentación de ideas para aplicar principios de OOP en [mejoras.md](docs/d.mejoras) | 20       |
 
