@@ -17,12 +17,12 @@
 2. Agrege comentarios al código actual. Documente las funciones y clases que no tengan comentarios adecuados. Para ello cree un nuevo archivo en este proyecto llamado `pixmatch_refactor.py` que sea una copia del original. Sobre este nuevo archivo hará todos los ajustes. **Tenga encuenta el nuevo nombre para cuando quiera ejecutar el proyecto**.
 3. Cree un diagrama de flujo que documente el proceso de juego desde que el usuario da clic en el botón para iniciar el juego hasta que el usuario selecciona una imagen y el sistema verifica si la imagen seleccionada es o no correcta.
      > Agregue el diagrama en la carpeta docs con el nombre `proceso_juego`
-3. Agregue en el archivo [requisitos.md](docs/a.requisitos) la lista de requisitos (funcionalidades) que soporta el proyecto actualmente según su análisis.Trate de identificar las funcionalidades principales que soporta el juego a partir de su revisión del código fuente, del uso del juego y de la revisión de la documentación que encuentre.   
+3. Agregue en el archivo [requisitos.md](docs/a.requisitos.md) la lista de requisitos (funcionalidades) que soporta el proyecto actualmente según su análisis.Trate de identificar las funcionalidades principales que soporta el juego a partir de su revisión del código fuente, del uso del juego y de la revisión de la documentación que encuentre.   
 >Por ejemplo, un requisito podría ser
 > **Gestión de Puntaje y Validación de Respuestas.** El sistema debe ser capaz de gestionar y actualizar el puntaje del jugador en tiempo real, basado en las respuestas del usuario durante el juego. Cada vez que un jugador selecciona una casilla en el tablero de juego, el sistema debe verificar si la selección es correcta o incorrecta comparándola con la imagen objetivo en la barra lateral.
  
 4. Relacione fragmentos del código fuente, variables, etc con los requisitos que identificó para resolver el juego. 
-   > Complete/Ajuste la tabla disponible en el archivo [`Requisitos2Code.md`](docs/b.requisitos_2_code)
+   > Complete/Ajuste la tabla disponible en el archivo [`Requisitos2Code.md`](docs/b.requisitos_2_code.md)
 
 ### II. Modificaciones y adiciones
 5. Modifique las siguientes funcionalidades, pruébelas para verificar que su cambio no afectó negativamente el funcionamiento ya existente. 
@@ -36,12 +36,12 @@
 > Luego de hecho el ajuste y de probar que el juego funcione bien complete las preguntas disponibles en el archivo [modificar_funciones.md](docs/c.modificacion_funciones)
 
 ## Detección de oportunidades de mejora a la calidad
-Diligencie la [lista de chequeo](docs/d.lista_chequeo) a partir de su revisión como *desarrollador experto* del código fuente actual. Considere que usted trabaja en una empresa desarrolladora de software como _desarrollador senior_ y que es su responsabilidad asegurar que el código desarrollado por la empresa cumple con las mejores prácticas. 
+Diligencie la [lista de chequeo](docs/d.lista_chequeo.md) a partir de su revisión como *desarrollador experto* del código fuente actual. Considere que usted trabaja en una empresa desarrolladora de software como _desarrollador senior_ y que es su responsabilidad asegurar que el código desarrollado por la empresa cumple con las mejores prácticas. 
 
 ## Detección de oportunidades para aplicar principios de OOP
 Reflexione sobre cómo podría estructurar el código usando clases para mejorar la claridad y mantenibilidad del código. Dado que todavía no tiene tanta experiencia con la programación en Streamlit, imagine que va a reestructurar su aplicación para que funcione en C++. 
 
-Documente su propuesta en el archivo de [mejoras.md](docs/d.mejoras). Su propuesta junto con la detección de oportunidades para mejora de la calidad serán discutidas en la próxima sesión.
+Documente su propuesta en el archivo de [mejoras.md](docs/d.mejoras.md). Su propuesta junto con la detección de oportunidades para mejora de la calidad serán discutidas en la próxima sesión.
 
 ## Evaluación
 ### Criterios
